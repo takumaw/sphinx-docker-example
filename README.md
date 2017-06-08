@@ -1,7 +1,5 @@
 # Sphinx docker sample project
 
-(C)2017 WATANABE Takuma takumaw@sfo.kuramae.ne.jp
-
 Sample sphinx project for building on Docker.
 
 ## Contents in this repository
@@ -20,3 +18,9 @@ Sample sphinx project for building on Docker.
 ```
 $ make -f Docker.Makefile html
 ```
+
+### Copyright and License
+
+(C)2017 WATANABE Takuma takumaw@sfo.kuramae.ne.jp
+
+Released under MIT license; see LICENSE.txt
